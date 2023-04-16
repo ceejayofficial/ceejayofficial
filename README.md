@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ceejayofficial
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m interested in Python
 - 💞️ I’m looking to collaborate on web project
 - 📫 How to reach me wa.me/233550190460 
 - 📫 How to reach me  ekumkofi@gmail.com
